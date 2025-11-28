@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧙‍♀️ Witch's Familiar Workshop
 
 A magical web application where users can transform everyday objects into enchanted animal familiars using AI-powered image analysis and generation.
@@ -305,3 +306,7 @@ This project is created for educational purposes as part of a programming course
 ---
 
 Made with ✨ magic and 💻 code
+=======
+# Bad-Witch
+this is a interactive python website
+>>>>>>> 1429f6ad0083a0de4a54b96924e6bbbec1ea67a6
