@@ -1,10 +1,10 @@
-# 🧙‍♀️ Witch's Familiar Workshop
+# 🧙‍♀️ Witchfamiliar Forge
 
 A magical web application where users can transform everyday objects into enchanted animal familiars using AI-powered image analysis and generation.
 
 ## ✨ Overview
 
-**Witch's Familiar Workshop** is an interactive web application that combines AI technology with fantasy themes. Users upload images of real-world objects, and the application uses Google's Gemini AI to analyze the object and suggest what magical creature it could transform into. The app then generates a unique familiar image and lets users collect, manage, and showcase their magical companions.
+**Witchfamiliar Forge** is an interactive web application that combines AI technology with fantasy themes. Users upload images of real-world objects, and the application uses Google's Gemini AI to analyze the object and suggest what magical creature it could transform into. The app then generates a unique familiar image and lets users collect, manage, and showcase their magical companions.
 
 ## 💡 Project Evolution
 
@@ -14,7 +14,7 @@ As we brainstormed, we stumbled upon a delightful little web game called [DrawAF
 
 Then the idea clicked: **What if we combined AI image generation with the witch theme?** Instead of drawing fish, users could take photos of everyday objects around them — a coffee mug, a plant, a book — and through a witch's magical spell, transform them into enchanted animal familiars. These familiars would then live together in a magical forest, where everyone could see and interact with each other's creations.
 
-And that's how **Witch's Familiar Workshop** was born — a place where ordinary objects become extraordinary companions through the power of AI and a little bit of magic. ✨
+And that's how **Witchfamiliar Forge** was born — a place where ordinary objects become extraordinary companions through the power of AI and a little bit of magic. ✨
 <img width="2540" height="1378" alt="image 50" src="https://github.com/user-attachments/assets/3339009f-153c-495d-a34f-f8f474b2dce8" />
 <img width="2547" height="1366" alt="image 51" src="https://github.com/user-attachments/assets/9f4bcb70-0d8a-4987-bba9-818f61feebeb" />
 
