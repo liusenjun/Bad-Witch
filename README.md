@@ -1,4 +1,4 @@
-# 🧙‍♀️ Witch's Familiar Workshop
+<img width="1920" height="912" alt="ef89611e6468f5e5d44cd5c2ec15a1fe" src="https://github.com/user-attachments/assets/1ae658c6-66f2-48e5-b6cf-d1afc0fb6410" /># 🧙‍♀️ Witch's Familiar Workshop
 
 A magical web application where users can transform everyday objects into enchanted animal familiars using AI-powered image analysis and generation.
 
@@ -28,6 +28,10 @@ And that's how **Witch's Familiar Workshop** was born — a place where ordinary
 - **✨ Name Generation**: AI generates 3 mystical, whimsical names for each familiar
 - **🎨 Image Generation**: Creates unique familiar artwork using Gemini 2.0 Flash or Pollinations.ai
 - **🎤 Voice Summoning**: Optional microphone feature to "summon" your familiar by speaking its name
+<img width="1920" height="912" alt="ef89611e6468f5e5d44cd5c2ec15a1fe" src="https://github.com/user-attachments/assets/1e30b632-582a-45e0-9ebb-8067be2f5840" />
+<img width="1920" height="912" alt="aead8536c98e3bdfe0220c683f83600f" src="https://github.com/user-attachments/assets/c526a2e7-7f45-44c8-96bf-d870997053d3" />
+<img width="1318" height="804" alt="3292fc7d9c1a4357c9737c9497afa00f" src="https://github.com/user-attachments/assets/71df32ee-657a-4ef4-9072-434b6e15316f" />
+
 
 ### Pages & Views
 - **🏠 Workshop**: Main creation area where users transform objects into familiars
