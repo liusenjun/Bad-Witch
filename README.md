@@ -15,7 +15,7 @@ As we brainstormed, we stumbled upon a delightful little web game called [DrawAF
 Then the idea clicked: **What if we combined AI image generation with the witch theme?** Instead of drawing fish, users could take photos of everyday objects around them — a coffee mug, a plant, a book — and through a witch's magical spell, transform them into enchanted animal familiars. These familiars would then live together in a magical forest, where everyone could see and interact with each other's creations.
 
 And that's how **Witchfamiliar Forge** was born — a place where ordinary objects become extraordinary companions through the power of AI and a little bit of magic. ✨
-<img width="2540" height="1378" alt="image 50" src="https://github.com/user-attachments/assets/3339009f-153c-495d-a34f-f8f474b2dce8" />
+<img width="2540" height="867" alt="image 50" src="https://github.com/user-attachments/assets/72da53d6-b9dc-4064-b89d-6a76049218b1" />
 <img width="2547" height="1366" alt="image 51" src="https://github.com/user-attachments/assets/9f4bcb70-0d8a-4987-bba9-818f61feebeb" />
 
 ## 🎮 Features
@@ -39,6 +39,7 @@ And that's how **Witchfamiliar Forge** was born — a place where ordinary objec
 - **🏆 Hall of Legends**: Leaderboard ranking familiars by magic power and likes
 <img width="1920" height="912" alt="c407ba0541ed07e402e4a56ee207f723" src="https://github.com/user-attachments/assets/ca94c79d-e7fd-4fd8-b123-6003c4d99dca" />
 <img width="1920" height="912" alt="de1f55610ef26fc06c71e101a7ac55f0" src="https://github.com/user-attachments/assets/b1a44663-f97a-49fc-ba8a-1a4670aab07d" />
+<img width="1920" height="912" alt="eda49870334e025fd65662c99b9f1ccc" src="https://github.com/user-attachments/assets/b5a7d3c3-1bc8-4b1b-af18-3dacc88f25e1" />
 
 ### Social Features
 - **👍👎 Like/Dislike System**: Rate other users' familiars
@@ -111,9 +112,9 @@ Navigate to: **http://127.0.0.1:5000**
 
 | Member | Responsibilities |
 |--------|------------------|
-| **HUANG Liusen** | Project management, code review, PR merging, documentation, Idea construction |
-| **JIN Xi** | Forest view, Cabin page, frontend animations, genAI background |
-| **Linjie Yin** | Reveal animation, Voice summoning feature, UI interactions, Idea construction |
+| **HUANG Liusen** | GenAI image, code review, PR merging, documentation, Prompt engineering |
+| **JIN Xi** | Forest view, Cabin page, frontend animations, genAI background, Prompt engineering |
+| **YIN Linjie** | Reveal animation, Voice summoning feature, UI interactions, Idea construction |
 
 ## 📄 License
 
