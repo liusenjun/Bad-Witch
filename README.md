@@ -1,10 +1,6 @@
-<img width="1920" height="912" alt="ef89611e6468f5e5d44cd5c2ec15a1fe" src="https://github.com/user-attachments/assets/1ae658c6-66f2-48e5-b6cf-d1afc0fb6410" /># 🧙‍♀️ Witch's Familiar Workshop
+# 🧙‍♀️ Witch's Familiar Workshop
 
 A magical web application where users can transform everyday objects into enchanted animal familiars using AI-powered image analysis and generation.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## ✨ Overview
 
@@ -19,6 +15,8 @@ As we brainstormed, we stumbled upon a delightful little web game called [DrawAF
 Then the idea clicked: **What if we combined AI image generation with the witch theme?** Instead of drawing fish, users could take photos of everyday objects around them — a coffee mug, a plant, a book — and through a witch's magical spell, transform them into enchanted animal familiars. These familiars would then live together in a magical forest, where everyone could see and interact with each other's creations.
 
 And that's how **Witch's Familiar Workshop** was born — a place where ordinary objects become extraordinary companions through the power of AI and a little bit of magic. ✨
+<img width="2540" height="1378" alt="image 50" src="https://github.com/user-attachments/assets/3339009f-153c-495d-a34f-f8f474b2dce8" />
+<img width="2547" height="1366" alt="image 51" src="https://github.com/user-attachments/assets/9f4bcb70-0d8a-4987-bba9-818f61feebeb" />
 
 ## 🎮 Features
 
@@ -30,19 +28,23 @@ And that's how **Witch's Familiar Workshop** was born — a place where ordinary
 - **🎤 Voice Summoning**: Optional microphone feature to "summon" your familiar by speaking its name
 <img width="1920" height="912" alt="ef89611e6468f5e5d44cd5c2ec15a1fe" src="https://github.com/user-attachments/assets/1e30b632-582a-45e0-9ebb-8067be2f5840" />
 <img width="1920" height="912" alt="aead8536c98e3bdfe0220c683f83600f" src="https://github.com/user-attachments/assets/c526a2e7-7f45-44c8-96bf-d870997053d3" />
+<img width="1920" height="912" alt="aebda6656c6552611bfc249fe26cfcb1" src="https://github.com/user-attachments/assets/cd542cd7-ee54-4dd4-92fa-7e4e12688c32" />
+<img width="1920" height="912" alt="b93ed2fe5f270a8176c49c6d60b74024" src="https://github.com/user-attachments/assets/5691b8d8-f82b-4525-8124-1f67ca916e9c" />
 <img width="1318" height="804" alt="3292fc7d9c1a4357c9737c9497afa00f" src="https://github.com/user-attachments/assets/71df32ee-657a-4ef4-9072-434b6e15316f" />
-
 
 ### Pages & Views
 - **🏠 Workshop**: Main creation area where users transform objects into familiars
 - **🌲 Forest**: Animated view showing all familiars flying on broomsticks across the screen
 - **🏡 My Cabin**: Personal collection management for your familiars
 - **🏆 Hall of Legends**: Leaderboard ranking familiars by magic power and likes
+<img width="1920" height="912" alt="c407ba0541ed07e402e4a56ee207f723" src="https://github.com/user-attachments/assets/ca94c79d-e7fd-4fd8-b123-6003c4d99dca" />
+<img width="1920" height="912" alt="de1f55610ef26fc06c71e101a7ac55f0" src="https://github.com/user-attachments/assets/b1a44663-f97a-49fc-ba8a-1a4670aab07d" />
 
 ### Social Features
 - **👍👎 Like/Dislike System**: Rate other users' familiars
 - **⭐ Magic Power**: Each familiar has a magic power rating
 - **🎯 Main Familiar**: Set one familiar as your primary companion
+
 
 ## 🛠️ Technology Stack
 
@@ -109,9 +111,9 @@ Navigate to: **http://127.0.0.1:5000**
 
 | Member | Responsibilities |
 |--------|------------------|
-| **HUANG Liusen** | Project management, code review, PR merging, documentation |
-| **tlswa-123** | Forest view, Cabin page, frontend animations |
-| **Linjie Yin** | Reveal animation, Voice summoning feature, UI interactions |
+| **HUANG Liusen** | Project management, code review, PR merging, documentation, Idea construction |
+| **JIN Xi** | Forest view, Cabin page, frontend animations, genAI background |
+| **Linjie Yin** | Reveal animation, Voice summoning feature, UI interactions, Idea construction |
 
 ## 📄 License
 
