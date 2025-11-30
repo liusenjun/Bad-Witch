@@ -113,7 +113,7 @@ Navigate to: **http://127.0.0.1:5000**
 | Member | Responsibilities |
 |--------|------------------|
 | **HUANG Liusen** | GenAI image, code review, PR merging, documentation, Prompt engineering |
-| **JIN Xi** | Forest view, Cabin page, frontend animations, genAI background, Prompt engineering |
+| **JIN Xi** | Forest view, Cabin page, Frontend animations, GenAI image, Prompt engineering |
 | **YIN Linjie** | Reveal animation, Voice summoning feature, UI interactions, Idea construction |
 
 ## 📄 License
